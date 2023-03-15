@@ -5,6 +5,7 @@
 ! Licence: https://github.com/cb-software/CB-Malicious-Domains/blob/master/LICENSE
 !
 ||errorconnect.webcam^
+||go.com^
 ||domain^
 ||dailymail.co.uk^
 ||rai.it^
